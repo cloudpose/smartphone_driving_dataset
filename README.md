@@ -1,5 +1,7 @@
 These datasets consist of driving scenes recorded in Austin, Texas using a dash-mounted smartphone. In addition to video recordings, sensor data from the smartphone as well as CAN bus data from the car are included. Timing is synchronized across all data sources.
 
+![Sample Image](dataset1_sample.png)
+
 **Dataset 1**
 
 Start time: 2018-04-08 10:31:37.00
