@@ -8,7 +8,7 @@ Start time: 2018-04-08 10:31:37.00
 
 End time: 2018-04-08 10:37:19.00
 
-Image data: [Google Drive](https://drive.google.com/file/d/1gN2hkS_gQAOPGGF-9ERcClLSeb4sfbW-/view?usp=sharing)
+Image data (3419 images): [Google Drive](https://drive.google.com/file/d/1gN2hkS_gQAOPGGF-9ERcClLSeb4sfbW-/view?usp=sharing)
 
 CAN bus data: [dataset1_car.csv](dataset1_car.csv)
 
