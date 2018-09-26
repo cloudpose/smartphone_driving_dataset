@@ -1,8 +1,21 @@
-These datasets consist of driving scenes recorded in Austin, Texas using a dash-mounted smartphone. In addition to video recordings, sensor data from the smartphone as well as CAN bus data from the car are included. Timing of all data sources is synchronized.
+These datasets consist of driving scenes recorded in Austin, Texas using a dash-mounted smartphone. In addition to video recordings, sensor data from the smartphone as well as CAN bus data from the car are included. Timing is synchronized across all data sources.
+
+**Dataset 1**
+
+Start time: 2018-04-08 10:31:37.00
+
+End time: 2018-04-08 10:37:19.00
+
+Image data: [Google Drive](https://drive.google.com/file/d/1gN2hkS_gQAOPGGF-9ERcClLSeb4sfbW-/view?usp=sharing)
+
+CAN bus data: [dataset1_car.csv](dataset1_car.csv)
+
+Smartphone sensor data: [dataset1_phone.csv](dataset1_phone.csv)
+
 
 **Video processing**
 
-- Originally 1920x1080 video
+- Originally 1920x1080 video (iPhone X)
 - PNG images extracted at 10 fps via ffmpeg
 - Images cropped to remove car hood
 - Images resized to 960x395
